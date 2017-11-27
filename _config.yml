@@ -1,0 +1,43 @@
+# Site settings
+title: James Hamann
+email: jameshamann@me.com
+url: https://jameshamann.com
+description: "I’m a full stack developer, with a background in Music Technology, who enjoys building applications of all types! I have experience in building applications using Ruby, Javascript and Swift 3. Have a look at my projects if you are interested and follow my blog to keep up to date with what I am currently working on."
+skills: "Software Developer"
+meta_author: Hamann James
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Footer settings
+footer:
+  copyright: James Hamann
+  social: Around the Web
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jameshamann
+  - title: facebook
+    url: https://www.facebook.com/james.hamann.50
+  - title: github
+    url: http://github.com/jameshamann
+  - title: soundcloud
+    url: https://soundcloud.com/jameshamann
+  - title: music
+    url: https://jameshamann.bandcamp.com/
+  - title: book
+    url: https://medium.com/@jameshamann
+  - title: instagram
+    url: https://www.instagram.com/jameshamann/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: London, United Kingdom
+
+# Build settings
+# markdown: kramdown
+# permalink: pretty
