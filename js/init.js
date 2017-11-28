@@ -1,4 +1,11 @@
-// Initialize collapse button
- $(".button-collapse").sideNav();
- // Initialize collapsible (uncomment the line below if you use the dropdown variation)
- $('.collapsible').collapsible();
+ (function($){
+   $(function(){
+
+     $('.button-collapse').sideNav();
+     $('.parallax').parallax();
+     $('.collapsible').collapsible();
+     $('.carousel.carousel-slider').carousel({fullWidth: true});
+
+
+   }); // end of document ready
+ })(jQuery);
