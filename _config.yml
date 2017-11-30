@@ -1,42 +1,48 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: James Hamann
-name: James Hamann
-email: jameshamann@me.com
-url: https://jameshamann.com
-description: "I’m a full stack developer, with a background in Music Technology, who enjoys building applications of all types! I have experience in building applications using Ruby, Javascript and Swift 3. Have a look at my projects if you are interested and follow my blog to keep up to date with what I am currently working on."
-skills: "Software Developer"
-meta_author: James Hamann
-
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# Footer settings
-footer:
-  copyright: James Hamann
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/jameshamann
-  - title: facebook
-    url: https://www.facebook.com/james.hamann.50
-  - title: github
-    url: http://github.com/jameshamann
-  - title: soundcloud
-    url: https://soundcloud.com/jameshamann
-  - title: music
-    url: https://jameshamann.bandcamp.com/
-  - title: book
-    url: https://medium.com/@jameshamann
-  - title: instagram
-    url: https://www.instagram.com/jameshamann/
-
-# Postal address (add as many lines as necessary)
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Your awesome title
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
 
 # Build settings
 markdown: kramdown
+# theme: minima
 permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-sass-converter
+  - jekyll-minifier
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

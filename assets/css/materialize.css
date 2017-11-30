@@ -2183,6 +2183,7 @@ nav,
 section,
 summary {
   display: block;
+
 }
 
 /**
@@ -2880,7 +2881,7 @@ ul.staggered-list li {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #ee6e73;
+  background-color: #b2dfdb
 }
 
 .page-footer .footer-copyright {
@@ -2895,7 +2896,7 @@ ul.staggered-list li {
       -ms-flex-align: center;
           align-items: center;
   padding: 10px 0px;
-  color: rgba(255, 255, 255, 0.8);
+  color: #000000;
   background-color: rgba(51, 51, 51, 0.08);
 }
 
