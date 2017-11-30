@@ -1012,11 +1012,11 @@
 }
 
 .teal.lighten-2 {
-  background-color: #4db6ac !important;
+  background-color: #ffff !important;
 }
 
 .teal-text.text-lighten-2 {
-  color: #4db6ac !important;
+  color: #ffff !important;
 }
 
 .teal.lighten-1 {
@@ -2881,7 +2881,7 @@ ul.staggered-list li {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #b2dfdb
+  background-color: #a7c0cd
 }
 
 .page-footer .footer-copyright {
@@ -3364,6 +3364,7 @@ nav ul a span.badge {
   -webkit-font-feature-settings: 'liga';
      -moz-font-feature-settings: 'liga';
           font-feature-settings: 'liga';
+
 }
 
 .container {
@@ -4268,7 +4269,7 @@ nav .button-collapse i {
 
 nav .brand-logo {
   position: absolute;
-  color: #fff;
+  color: black;
   display: inline-block;
   font-size: 2.1rem;
   padding: 0;
@@ -4278,6 +4279,7 @@ nav .brand-logo.center {
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
+
 }
 
 @media only screen and (max-width: 992px) {
@@ -4407,6 +4409,7 @@ nav .input-field label.active i {
 
 .navbar-fixed nav {
   position: fixed;
+  background-color: white
 }
 
 @media only screen and (min-width: 601px) {
@@ -4518,6 +4521,7 @@ h5 {
   font-size: 1.64rem;
   line-height: 110%;
   margin: 0.82rem 0 0.656rem 0;
+  color: #ffff
 }
 
 h6 {
@@ -5249,6 +5253,7 @@ small {
 .btn-floating.btn-large {
   width: 56px;
   height: 56px;
+  background-color: #4b636e
 }
 
 .btn-floating.btn-large.halfway-fab {
