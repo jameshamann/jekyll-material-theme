@@ -2881,7 +2881,7 @@ ul.staggered-list li {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #a7c0cd
+  background-color: #cfd8dc;
 }
 
 .page-footer .footer-copyright {
@@ -5253,7 +5253,8 @@ small {
 .btn-floating.btn-large {
   width: 56px;
   height: 56px;
-  background-color: #4b636e
+  background-color: #436786
+;
 }
 
 .btn-floating.btn-large.halfway-fab {
