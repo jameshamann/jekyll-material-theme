@@ -33,6 +33,9 @@ project_four_url: https://github.com/jameshamann/jekyll-material-theme
 
 project_button: Github
 
+github: https://github.com/jameshamann/jekyll-material-theme
+medium: https://medium.com
+
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
