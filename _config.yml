@@ -19,14 +19,20 @@ email: your-email@example.com
 description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
 project_one: "First Project"
-project_two: Second Project
-project_three: Third Project
-project_four: Fourth Project
-
 project_one_description: Describe your project!
+project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: Second Project
 project_two_description: Describe your project!
+project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: Third Project
 project_three_description: Describe your project!
+project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: Fourth Project
 project_four_description: Describe your project!
+project_four_url: https://github.com/jameshamann/jekyll-material-theme
+
+project_button: Github
+
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
