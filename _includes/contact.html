@@ -3,11 +3,35 @@
     <img class="activator" src="assets/images/desk.jpg">
   </div>
   <div class="card-content">
-    <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
-    <p><a href="#">This is a link</a></p>
+    <span class="card-title activator grey-text text-darken-4">Contact Me<a class="btn-floating halfway-fab waves-effect waves-light red pulse"><i class="large material-icons">arrow_drop_up</i></a></span>
   </div>
   <div class="card-reveal">
-    <span class="card-title grey-text text-darken-4">Card Title<i size="large" class="material-icons right">close</i></span>
-    <p>Here is some more information about this product that is only revealed once clicked on.</p>
+    <span class="card-title grey-text text-darken-4">Contact Form<i size="large" class="material-icons right">close</i></span>
+    <br><br><br>
+    <form class="col s12" action="https://formspree.io/jameshamann0@gmail.com" method="POST">
+      <div class="row">
+        <div class="input-field col s6">
+          <i class="material-icons prefix">account_circle</i>
+          <input id="icon_prefix" type="text" name="name" class="validate">
+          <label for="icon_prefix">Name</label>
+        </div>
+        <div class="input-field col s6">
+          <i class="material-icons prefix">email</i>
+          <input id="icon_email" type="email" class="validate" name="_replyto">
+          <label for="icon_email">Email</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <i class="material-icons prefix">message</i>
+          <textarea id="textarea1" class="materialize-textarea"></textarea>
+          <label for="textarea1">Message</label>
+        </div>
+      </div>
+      <button class="btn waves-effect grey waves-dark darken-3 white-text z-depth-4" type="submit" name="action">Submit
+         <i class="material-icons right">send</i>
+       </button>
+    </form>
+
   </div>
 </div>
