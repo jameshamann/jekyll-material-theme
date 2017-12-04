@@ -12,22 +12,22 @@
       <div class="row">
         <div class="input-field col s6">
           <i class="material-icons prefix">account_circle</i>
-          <input id="icon_prefix" type="text" name="name" class="validate">
+          <input class="validate" id="icon_prefix" type="text" name="name">
           <label for="icon_prefix">Name</label>
         </div>
         <div class="input-field col s6">
           <i class="material-icons prefix">email</i>
-          <input id="icon_email" type="email" class="validate" name="_replyto">
-          <label for="icon_email">Email</label>
+          <input class="validate" id="email" type="email" name="_replyto">
+          <label for="email" data-error="Please enter a valid Email Address" data-success="Verified!">Email</label>
         </div>
       </div>
       <div class="row">
-        <div class="input-field col s12">
-          <i class="material-icons prefix">message</i>
-          <textarea id="textarea1" class="materialize-textarea"></textarea>
-          <label for="textarea1">Message</label>
-        </div>
-      </div>
+       <div class="input-field col s12">
+         <i class="material-icons prefix">message</i>
+         <textarea id="icon_prefix2" class="materialize-textarea"></textarea>
+         <label for="icon_prefix2">Message</label>
+       </div>
+     </div>
       <button class="btn waves-effect grey waves-dark darken-3 white-text z-depth-4" type="submit" name="action">Submit
          <i class="material-icons right">send</i>
        </button>
