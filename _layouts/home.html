@@ -1,6 +1,7 @@
 {% include head.html %}
 
 <body>
+  <div id="home" class="section scrollspy">
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
       <div class="container">
@@ -15,11 +16,16 @@
     </div>
     <div class="parallax"><img src="assets/images/startup3.jpg" alt="Unsplashed background img 1"></div>
   </div>
+</div>
 
 <div class="container" style="padding:20px;">
+  <div id="portfolio" class="section scrollspy">
+
   <h3 style="text-align:center;">Portfolio</h3>
 
 {% include carousel.html %}
+
+</div>
 
 </div>
 
@@ -34,14 +40,19 @@
     <div class="parallax"><img src="assets/images/startup3.jpg" alt="Unsplashed background img 3"></div>
   </div>
 
+
 <div class="container" style="padding:20px;">
+  <div id="blog" class="section scrollspy">
   <h3 style="text-align:center;">Blog</h3>
   {% include blog-feed.html %}
 </div>
+</div>
 
 <div class="container" style="padding:20px;">
+  <div id="contact" class="section scrollspy">
   <h3 style="text-align:center;">Contact</h3>
   {% include contact.html %}
+</div>
 </div>
 
 </body>
