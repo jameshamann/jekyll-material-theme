@@ -8,6 +8,12 @@ A Jekyll Theme based on [Material Design](https://material.io/) using [Materiali
 
 <a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
 
+##### Cookie Policy
+
+If you use cookies on your site, or choose to use Google Analytics, you're able to notify visitors with this prompt. The ```Thanks!``` dialog message can be customised in your ```_config.yml``` file. 
+
+<a href="https://imgur.com/O7sICnY"><img src="https://i.imgur.com/O7sICnY.gif" title="source: imgur.com" /></a>
+
 ### [Live Demo](https://jameshamann.com)
 
 ## Installation

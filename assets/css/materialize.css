@@ -8361,7 +8361,9 @@ input[type=range]:focus::-ms-fill-upper {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #ffffff;
+  background-color: #eceff1
+
+;
 }
 
 .tap-target-wave::before {
