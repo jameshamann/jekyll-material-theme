@@ -76,6 +76,10 @@ medium: https://medium.com
 baseurl: / # If your site is located at /blog or /home, change it here
 url: http://localhost:4000/ # The URL of your site
 
+google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+
+
+
 # Build settings
 markdown: kramdown
 permalink: pretty

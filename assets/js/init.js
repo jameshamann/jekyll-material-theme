@@ -9,8 +9,8 @@
      $('.scrollspy').scrollSpy();
      $('.tap-target').tapTarget('open');
 
-     jQuery('#check').on('click', function(event) {
-            jQuery('#cookies').toggle('show');
+     jQuery('#cookies').on('click', function(event) {
+            jQuery('#cookies').toggle('hide');
        });
 
    }); // end of document ready
