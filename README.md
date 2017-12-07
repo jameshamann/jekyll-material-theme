@@ -97,3 +97,7 @@ To set up your environment to develop and further customise this theme, fork the
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+<h4>Cookie Policy</h4>
+<p>We use Cookies on this Website to track usage. By contiuning to use this website, you agree to the use of Cookies.</p>
+<p><b>For more information visit the <a href "https://www.cookielaw.org/google-analytics-eu-cookie-law/">Cookie Law Website</a><b></p>

@@ -8282,13 +8282,14 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .tap-target-wrapper {
-  width: 800px;
-  height: 800px;
-  position: fixed;
+  width: 500px;
+  height: 500px;
+  position: absolute;
   z-index: 1000;
   visibility: hidden;
   -webkit-transition: visibility 0s .3s;
   transition: visibility 0s .3s;
+  align-items: right;
 }
 
 .tap-target-wrapper.open {
@@ -8310,6 +8311,7 @@ input[type=range]:focus::-ms-fill-upper {
 .tap-target-wrapper.open .tap-target-wave::before {
   -webkit-transform: scale(1);
           transform: scale(1);
+
 }
 
 .tap-target-wrapper.open .tap-target-wave::after {
@@ -8324,9 +8326,10 @@ input[type=range]:focus::-ms-fill-upper {
 
 .tap-target {
   position: absolute;
+  align-items: flex-start;
   font-size: 1rem;
   border-radius: 50%;
-  background-color: #ee6e73;
+  background-color: #cfd8dc;
   -webkit-box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.14), 0 10px 50px 0 rgba(0, 0, 0, 0.12), 0 30px 10px -20px rgba(0, 0, 0, 0.2);
           box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.14), 0 10px 50px 0 rgba(0, 0, 0, 0.12), 0 30px 10px -20px rgba(0, 0, 0, 0.2);
   width: 100%;
