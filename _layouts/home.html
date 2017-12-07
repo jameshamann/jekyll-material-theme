@@ -1,6 +1,5 @@
 {% include head.html %}
 
-<body>
   <div id="home" class="section scrollspy">
   <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">
@@ -14,7 +13,7 @@
 
       </div>
     </div>
-    <div class="parallax"><img src="assets/images/startup3.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="{{site.parallax_image_one}}" alt="Unsplashed background img 1"></div>
   </div>
 </div>
 
@@ -37,7 +36,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="assets/images/startup3.jpg" alt="Unsplashed background img 3"></div>
+    <div class="parallax"><img src="{{site.parallax_image_two}}" alt="Unsplashed background img 3"></div>
   </div>
 
 
@@ -54,8 +53,6 @@
   {% include contact.html %}
 </div>
 </div>
-
-</body>
 
 {% include nav-burger.html %}
 {% include footer.html %}
