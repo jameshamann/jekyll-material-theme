@@ -10,7 +10,7 @@ A Jekyll Theme based on [Material Design](https://material.io/) using [Materiali
 
 ##### Cookie Policy
 
-If you use cookies on your site, or choose to use Google Analytics, you're able to notify visitors with this prompt. The ```Thanks!``` dialog message can be customised in your ```_config.yml``` file. 
+If you use cookies on your site, or choose to use Google Analytics, you're able to notify visitors with this prompt. The ```Thanks!``` dialog message can be customised in your ```_config.yml``` file.
 
 <a href="https://imgur.com/O7sICnY"><img src="https://i.imgur.com/O7sICnY.gif" title="source: imgur.com" /></a>
 
@@ -84,6 +84,7 @@ url: http://localhost:4000/ # The URL of your site
 
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
+cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
 
 
 # Build settings
@@ -107,7 +108,3 @@ To set up your environment to develop and further customise this theme, fork the
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-<h4>Cookie Policy</h4>
-<p>We use Cookies on this Website to track usage. By contiuning to use this website, you agree to the use of Cookies.</p>
-<p><b>For more information visit the <a href "https://www.cookielaw.org/google-analytics-eu-cookie-law/">Cookie Law Website</a><b></p>
