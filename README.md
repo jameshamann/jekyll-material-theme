@@ -23,13 +23,13 @@ If you use cookies on your site, or choose to use Google Analytics, you're able 
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "material-theme"
+gem "jekyll-material-theme"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: material-theme
+theme: jekyll-material-theme
 ```
 
 And then execute:
@@ -38,7 +38,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install material-theme
+    $ gem install jekyll-material-theme
 
 ## Usage
 
