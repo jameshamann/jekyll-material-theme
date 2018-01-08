@@ -2,6 +2,8 @@
 
 A Jekyll Theme based on [Material Design](https://material.io/) using [Materialize](http://materializecss.com/).
 
+[![Gem Version](https://badge.fury.io/rb/jekyll-material-theme.svg)](https://badge.fury.io/rb/jekyll-material-theme)
+
 <a href="https://imgur.com/3PKshVo"><img src="https://i.imgur.com/3PKshVo.gif" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/hlB1MOw"><img src="https://i.imgur.com/hlB1MOw.gif" title="source: imgur.com" /></a>
@@ -21,13 +23,13 @@ If you use cookies on your site, or choose to use Google Analytics, you're able 
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "material-theme"
+gem "jekyll-material-theme"
 ```
 
 And add this line to your Jekyll site's `_config.yml`:
 
 ```yaml
-theme: material-theme
+theme: jekyll-material-theme
 ```
 
 And then execute:
@@ -36,7 +38,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install material-theme
+    $ gem install jekyll-material-theme
 
 ## Usage
 
