@@ -3,4 +3,4 @@
 .sass-cache
 Gemfile.lock
 _site
-.gemspec
+material-theme.gemspec
