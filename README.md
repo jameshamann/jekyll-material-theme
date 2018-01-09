@@ -4,11 +4,11 @@ A Jekyll Theme based on [Material Design](https://material.io/) using [Materiali
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-material-theme.svg)](https://badge.fury.io/rb/jekyll-material-theme)
 
-<a href="https://imgur.com/3PKshVo"><img src="https://imgur.com/3PKshVo.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
+
 
 <a href="https://imgur.com/hlB1MOw"><img src="https://i.imgur.com/hlB1MOw.gif" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
 
 ##### Cookie Policy
 
