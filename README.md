@@ -112,6 +112,8 @@ To set up your environment to develop and further customise this theme, fork the
 - [James Hamann](https://github.com/jameshamann)
 - [Jam Rizzer](https://github.com/jamrizzi)
 
+## [Changelog](https://github.com/jameshamann/jekyll-material-theme/blob/master/CHANGELOG.md)
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
