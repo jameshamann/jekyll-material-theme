@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.1.3] - 2018-01-09
+### Added
+* Fixes [issue 9](https://github.com/jameshamann/jekyll-material-theme/issues/9)
+* Adds Portfolio Cards [issue 8](https://github.com/jameshamann/jekyll-material-theme/issues/8)
+* Adds A Tools and Experience Section
+
+
 ## [0.1.2] - 2018-01-09
 ### Added
 * Fixes [issue 5](https://github.com/jameshamann/jekyll-material-theme/issues/5) regarding baseurl, where assets weren't being loaded correctly. Ensure the <b>url</b>: field within the ```_config.yml``` does not have a trailing "/". Fixed by [jameshamann](https://github.com/jameshamann) and [jamrizzi](https://github.com/jamrizzi). For example:
