@@ -4,11 +4,11 @@ A Jekyll Theme based on [Material Design](https://material.io/) using [Materiali
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-material-theme.svg)](https://badge.fury.io/rb/jekyll-material-theme)
 
-<a href="https://imgur.com/3PKshVo"><img src="https://i.imgur.com/3PKshVo.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
+
 
 <a href="https://imgur.com/hlB1MOw"><img src="https://i.imgur.com/hlB1MOw.gif" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
 
 ##### Cookie Policy
 
@@ -81,7 +81,7 @@ project_button: Github
 github: https://github.com/jameshamann/jekyll-material-theme
 medium: https://medium.com
 
-baseurl: / # If your site is located at /blog or /home, change it here
+baseurl: # If your site is located at /blog or /home, change it here, otherwise leave it empty
 url: http://localhost:4000/ # The URL of your site
 
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
@@ -106,6 +106,13 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/jamesh
 ## Development
 
 To set up your environment to develop and further customise this theme, fork the repo and explore the ```_assets``` directory, which includes all the ```css, js``` and ```font``` folders.
+
+## Contributors
+
+- [James Hamann](https://github.com/jameshamann)
+- [Jam Rizzer](https://github.com/jamrizzi)
+
+## [Changelog](https://github.com/jameshamann/jekyll-material-theme/blob/master/CHANGELOG.md)
 
 ## License
 
