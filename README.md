@@ -75,6 +75,8 @@ project_four_description: Describe your project!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
 
+portfolio_type: #cards or carousel
+
 
 project_button: Github
 
