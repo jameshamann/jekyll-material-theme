@@ -16,6 +16,13 @@ If you use cookies on your site, or choose to use Google Analytics, you're able 
 
 <a href="https://imgur.com/O7sICnY"><img src="https://i.imgur.com/O7sICnY.gif" title="source: imgur.com" /></a>
 
+##### Tools and Experience Section
+
+If you'd like to display some of your skills and experience, you can do so through using the section below. 
+
+<a href="https://imgur.com/DjtrH6s"><img src="https://imgur.com/DjtrH6s.png" title="source: imgur.com" /></a>
+
+
 ### [Live Demo](https://jameshamann.com)
 
 ## Installation
