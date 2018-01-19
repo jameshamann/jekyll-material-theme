@@ -4,11 +4,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [0.1.3] - 2018-01-09
+## [0.3.0] - 2018-01-19
+### Added
+* Adds Tools and Experience Section [issue   11](https://github.com/jameshamann/jekyll-material-theme/issues/11)
+
+
+## [0.2.0] - 2018-01-16
 ### Added
 * Fixes [issue 9](https://github.com/jameshamann/jekyll-material-theme/issues/9)
 * Adds Portfolio Cards [issue 8](https://github.com/jameshamann/jekyll-material-theme/issues/8)
-* Adds A Tools and Experience Section
+
 
 
 ## [0.1.2] - 2018-01-09
