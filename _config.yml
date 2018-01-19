@@ -30,6 +30,12 @@ project_four_icon: restaurant
 
 portfolio_type: cards
 
+skills:
+  - name: amazonwebservices
+  - name: atom
+  - name: github
+
+icon_size: 50
 
 project_button: Github
 

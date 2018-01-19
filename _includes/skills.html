@@ -5,26 +5,12 @@
       <div class="card-image">
         <span class="card-title"><a style="color:white" href=""></a></span>
       </div>
-      <div class="card-content">
-        <p style="font-size:50px">
-        <i class="devicon-amazonwebservices-original colored"></i>
-        <i class="devicon-atom-original colored"></i>
-        <i class="devicon-bitbucket-plain-wordmark colored"></i>
-        <i class="devicon-bootstrap-plain-wordmark colored"></i>
-        <i class="devicon-github-plain-wordmark colored"></i>
-        <i class="devicon-heroku-line-wordmark colored"></i>
-        <i class="devicon-jasmine-plain-wordmark colored"></i>
-        <i class="devicon-javascript-plain colored"></i>
-        <i class="devicon-jquery-plain-wordmark colored"></i>
-        <i class="devicon-nginx-original colored"></i>
-        <i class="devicon-nodejs-plain colored"></i>
-        <i class="devicon-postgresql-plain-wordmark colored"></i>
-        <i class="devicon-rails-plain-wordmark colored"></i>
-        <i class="devicon-react-original-wordmark colored"></i>
-        <i class="devicon-ruby-plain-wordmark colored"></i>
-        <i class="devicon-ubuntu-plain-wordmark colored"></i>
-        <i class="devicon-wordpress-plain colored"></i>
-      </p>
+        <div class="card-content">
+
+
+      {% for skill in site.skills %}
+          <i class="devicon-{{skill.name}}-original colored" style="font-size:{{site.icon_size}}px;"></i>
+      {% endfor %}
       </div>
     </div>
   </div>
