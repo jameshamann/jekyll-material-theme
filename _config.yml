@@ -30,6 +30,8 @@ project_four_icon: restaurant
 
 portfolio_type: cards
 
+# Skill icons from https://konpa.github.io/devicon/
+
 skills:
   - name: amazonwebservices
   - name: android
@@ -132,8 +134,8 @@ skills:
   - name: yii
   - name: zend
 
-icon_size: 50
-colored: colored
+icon_size: 50 # font-size of icons in px
+colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
