@@ -60,6 +60,11 @@ description: Write an awesome description for your new site here. You can edit t
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
+# Settings for the porfolio section
+
+portfolio_heading: Portfolio
+portfolio_type: #cards or carousel
+
 project_one: "First Project"
 project_one_description: Describe your project!
 project_one_url: https://github.com/jameshamann/jekyll-material-theme
@@ -81,8 +86,6 @@ project_four: Fourth Project
 project_four_description: Describe your project!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
 project_four_icon: restaurant
-
-portfolio_type: #cards or carousel
 
 # Skill icons from https://konpa.github.io/devicon/
 
