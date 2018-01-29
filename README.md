@@ -18,7 +18,7 @@ If you use cookies on your site, or choose to use Google Analytics, you're able 
 
 ##### Tools and Experience Section
 
-If you'd like to display some of your skills and experience, you can do so through using the section below. 
+If you'd like to display some of your skills and experience, you can do so through using the section below.
 
 <a href="https://imgur.com/DjtrH6s"><img src="https://imgur.com/DjtrH6s.png" title="source: imgur.com" /></a>
 
@@ -229,6 +229,7 @@ To set up your environment to develop and further customise this theme, fork the
 
 - [James Hamann](https://github.com/jameshamann)
 - [Jam Rizzer](https://github.com/jamrizzi)
+- [Kobes](https://github.com/Kobes)
 
 ## [Changelog](https://github.com/jameshamann/jekyll-material-theme/blob/master/CHANGELOG.md)
 
