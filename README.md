@@ -4,7 +4,7 @@ A Jekyll Theme based on [Material Design](https://material.io/) using [Materiali
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-material-theme.svg)](https://badge.fury.io/rb/jekyll-material-theme)
 
-[![CircleCI](https://circleci.com/gh/jameshamann/jekyll-material-theme.svg?style=svg)](https://circleci.com/gh/jameshamann/jekyll-material-theme)
+CircleCI Build Status: [![CircleCI](https://circleci.com/gh/jameshamann/jekyll-material-theme.svg?style=svg)](https://circleci.com/gh/jameshamann/jekyll-material-theme)
 
 <a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
 
