@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 
 
+
 ## [0.4.0] - 2018-01-29
 ### Added
 * Adds dynamic portfolio_heading and fixes project_button [issue #14](https://github.com/jameshamann/jekyll-material-theme/issues/14). Added by [Kobes](https://github.com/Kobes).
