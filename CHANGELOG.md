@@ -4,9 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.4.1] - 2018-01-30
+### Added
+* Fixes dependency issue so site bundles all required dependencies. Adds default portfolio_type to avoid error regaridng missing file. [issue #15](https://github.com/jameshamann/jekyll-material-theme/issues/15).
+
+
+
 ## [0.4.0] - 2018-01-29
 ### Added
-* Adds dynamic portfolio_heading and fixes project_button [issue #14](https://github.com/jameshamann/jekyll-material-theme/issues/14). Added by [Kobes](https://github.com/Kobes). 
+* Adds dynamic portfolio_heading and fixes project_button [issue #14](https://github.com/jameshamann/jekyll-material-theme/issues/14). Added by [Kobes](https://github.com/Kobes).
 
 
 ## [0.3.0] - 2018-01-19

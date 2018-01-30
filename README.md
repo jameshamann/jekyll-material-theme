@@ -63,7 +63,7 @@ parallax_image_two: assets/images/startup3.jpg
 # Settings for the porfolio section
 
 portfolio_heading: Portfolio
-portfolio_type: #cards or carousel
+portfolio_type: cards #cards or carousel
 
 project_one: "First Project"
 project_one_description: Describe your project!
