@@ -51,11 +51,15 @@ Or install it yourself as:
 
 The ```_config.yml``` file has the following options.
 
+Please ensure to copy this sample before serving up your site as some variables are required in order to make the site run correctly.
+
 ```yaml
 title: Your awesome title
 name: Your Name
 email: your-email@example.com
 description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+
+theme: jekyll-material-theme
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
