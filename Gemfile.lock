@@ -32,6 +32,7 @@ GEM
     chromedriver-helper (1.1.0)
       archive-zip (~> 0.7.0)
       nokogiri (~> 1.6)
+    coderay (1.1.2)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
     cssminify2 (2.0.1)
@@ -95,6 +96,7 @@ GEM
     materialize-sass (0.100.2)
       sass (~> 3.3)
     mercenary (0.3.6)
+    method_source (0.9.0)
     mini_mime (1.0.0)
     mini_portile2 (2.3.0)
     minima (2.3.0)
@@ -106,6 +108,9 @@ GEM
       mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
+    pry (0.11.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
     public_suffix (3.0.1)
     rack (1.6.8)
     rack-jekyll (0.5.0)
@@ -168,11 +173,15 @@ DEPENDENCIES
   jekyll-minifier
   materialize-sass
   minima (~> 2.0)
+  pry
   rack-jekyll
   rake (~> 10.0)
   rspec
   selenium-webdriver
   tzinfo-data
+
+RUBY VERSION
+   ruby 2.4.3p205
 
 BUNDLED WITH
    1.16.1

@@ -10,6 +10,7 @@ gem 'capybara'
 gem "selenium-webdriver"
 gem "chromedriver-helper"
 gem "rack-jekyll"
+gem "pry"
 
 
 group :jekyll_plugins do
