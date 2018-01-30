@@ -48,6 +48,15 @@ jobs:
                             --out /tmp/test-results/rspec.xml \
                             --format progress \
                             $TEST_FILES
+      #
+      # # build for deployment
+      # - run:
+      #     name: Build Gemspec
+      #     command: gem build material-theme.gemspec
+      #
+      # - run:
+      #     name: deploy Gem
+      #     command: gem push jekyll-material-theme-0.4.1.gem
 
       # collect reports
       - store_test_results:

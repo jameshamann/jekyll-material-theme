@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [0.4.1] - 2018-01-30
 ### Added
 * Fixes dependency issue so site bundles all required dependencies. Adds default portfolio_type to avoid error regaridng missing file. [issue #15](https://github.com/jameshamann/jekyll-material-theme/issues/15).
+* Adds RSpec/Capybara for Testing
+* Adds CircleCI for build pipeline
 
 
 
