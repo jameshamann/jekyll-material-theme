@@ -5,6 +5,11 @@
 version: 2
 jobs:
   build:
+
+    branches:
+      only:
+        - master
+
     docker:
       # specify the version you desire here
        - image: circleci/ruby:2.4.3-node-browsers
@@ -19,6 +24,11 @@ jobs:
     steps:
       - checkout
 
+      - run:
+          name: install dependencies
+          command: |
+            bundle install
+
       # Download and cache dependencies
       - restore_cache:
           keys:
@@ -26,10 +36,6 @@ jobs:
           # fallback to using the latest cache if no exact match is found
           - v1-dependencies-
 
-      - run:
-          name: install dependencies
-          command: |
-            bundle install 
 
       - save_cache:
           paths:
