@@ -13,10 +13,10 @@ Gem::Specification.new do |spec|
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(js|css|assets|_layouts|_includes|_posts|LICENSE|README)}i) }
 
   spec.add_runtime_dependency "jekyll", "~> 3.5"
-  spec.add_runtime_dependency "jekyll-assets"
-  spec.add_runtime_dependency "jekyll-minifier"
-  spec.add_runtime_dependency "jekyll-feed"
-  spec.add_runtime_dependency "kramdown"
+  spec.add_runtime_dependency "jekyll-assets", "~> 3.0"
+  spec.add_runtime_dependency "jekyll-minifier", "~> 0.1"
+  spec.add_runtime_dependency "jekyll-feed", "~> 0.9"
+  spec.add_runtime_dependency "kramdown", "~> 1.16"
 
 
 
