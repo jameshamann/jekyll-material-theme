@@ -4,6 +4,8 @@ A Jekyll Theme based on [Material Design](https://material.io/) using [Materiali
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-material-theme.svg)](https://badge.fury.io/rb/jekyll-material-theme)
 
+CircleCI Build Status: [![CircleCI](https://circleci.com/gh/jameshamann/jekyll-material-theme.svg?style=svg)](https://circleci.com/gh/jameshamann/jekyll-material-theme)
+
 <a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
 
 
@@ -227,7 +229,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/jamesh
 
 ## Development
 
-To set up your environment to develop and further customise this theme, fork the repo and explore the ```_assets``` directory, which includes all the ```css, js``` and ```font``` folders.
+To set up your environment to develop and further customise this theme, fork the repo and explore the ```_assets``` directory, which includes all the ```css, js``` and ```font``` folders. If you're adding a feature, please add some tests in the ```spec``` directory to ensure everyhting works as intended. 
 
 ## Contributors
 

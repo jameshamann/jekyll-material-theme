@@ -9,7 +9,7 @@ describe "Website Loads Up", type: :feature, js: true do
     expect(page).to have_content('Portfolio')
 
   end
-  
+
   it "renders the blog post page" do
     visit '/'
 

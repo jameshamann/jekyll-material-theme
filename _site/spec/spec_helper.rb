@@ -25,5 +25,5 @@ RSpec.configure do |config|
   # (force_build: true) builds the site before the tests are run,
   # so our tests are always running against the latest version
   # of our jekyll site.
-  Capybara.app = Rack::Jekyll.new(force_build: true)
+  Capybara.app = Rack::Jekyll.new(force_build: false)
 end
