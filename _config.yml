@@ -152,6 +152,8 @@ cookies_banner: show # The value "show" will show the cookies banner, the value 
 
 cookie_accept_message: Thanks!
 
+syntax_highlighting: true # include the css for syntax highlighting
+
 # Build settings
 markdown: kramdown
 # theme: minima
