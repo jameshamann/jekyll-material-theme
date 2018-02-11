@@ -212,6 +212,7 @@ google_analytics_tracking_id: # This looks something like UA-000000000-0 Head ov
 
 cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
 
+syntax_highlighting: true # include the css for syntax highlighting
 
 # Build settings
 markdown: kramdown
