@@ -31,6 +31,7 @@ project_four_icon: restaurant
 portfolio_heading: Portfolio
 portfolio_type: cards
 
+syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:

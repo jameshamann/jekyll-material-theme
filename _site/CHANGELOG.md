@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.4.2] - 2018-01-31
+### Added
+* Adds persistant Cookie Storage when accepting Cookie Consent Message. Added by [Kobes](https://github.com/Kobes).
+
+
 ## [0.4.1] - 2018-01-30
 ### Added
 * Fixes dependency issue so site bundles all required dependencies. Adds default portfolio_type to avoid error regaridng missing file. [issue #15](https://github.com/jameshamann/jekyll-material-theme/issues/15).

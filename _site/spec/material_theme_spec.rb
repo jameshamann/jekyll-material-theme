@@ -17,13 +17,4 @@ describe "Website Loads Up", type: :feature, js: true do
     expect(page).to have_content('Hello World!')
 
   end
-
-  it "displays the cookie message" do
-    visit '/'
-    expect(page).to have_content("Cookie Policy")
-    click_link('/2017/12/04/hello-world/')
-    expect(page).to have_content('Hello World!')
-    click_link('home')
-    expect(page).to_not have_content('Cookie Policy')
-  end
 end
