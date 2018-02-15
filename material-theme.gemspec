@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-material-theme"
-  spec.version       = "0.5.1"
+  spec.version       = "0.5.3"
   spec.authors       = ["James Hamann"]
   spec.email         = ["jameshamann0@gmail.com"]
 
@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/jameshamann/jekyll-material-theme"
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(js|css|assets|_layouts|_includes|_posts|LICENSE|README|_config.yml)}i) }
+  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(js|css|assets|_sass|_layouts|_includes|_posts|LICENSE|README|_config.yml)}i) }
 
   spec.add_runtime_dependency "jekyll", "~> 3.5"
   spec.add_runtime_dependency "jekyll-assets", "~> 3.0"
