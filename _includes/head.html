@@ -9,8 +9,9 @@
       {% endif %}
       <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
-
-      {{ include google_analytics.html }}
+      {% if site.google_analytics_tracking_id and jekyll.environment == 'production' %}
+        {% include google_analytics.html %}
+      {% endif %}
       <title>{{site.title}}</title>
 
     </head>
