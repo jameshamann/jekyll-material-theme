@@ -9,6 +9,7 @@ jobs:
     branches:
       only:
         - master
+        - develop
 
     docker:
       # specify the version you desire here
@@ -28,6 +29,11 @@ jobs:
           name: install dependencies
           command: |
             bundle install
+       # build the jekyll site
+       - run:
+          name: build the site
+          command: |
+            bundle exec jekyll build
 
       # Download and cache dependencies
       - restore_cache:
