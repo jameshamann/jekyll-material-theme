@@ -29,8 +29,9 @@ jobs:
           name: install dependencies
           command: |
             bundle install
-       # build the jekyll site
-       - run:
+ 
+      # build the jekyll site
+      - run:
           name: build the site
           command: |
             bundle exec jekyll build
