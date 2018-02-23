@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.6.0] - 2018-02-23
+### Fixes
+* Fixes [issue #25](https://github.com/jameshamann/jekyll-material-theme/pull/25), Back link on post.
+Fixed by [Kobes](https://github.com/Kobes).
+### Added
+* Adds Google Tag Manager for further site analytics
+Added by [Kobes](https://github.com/Kobes).
+
+
 ## [0.5.3] - 2018-02-15
 ### Fixes
 * Fixes syntax_highlighting not loading correctly
