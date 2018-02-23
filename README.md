@@ -208,6 +208,8 @@ medium: https://medium.com
 baseurl: # If your site is located at /blog or /home, change it here, otherwise leave it empty
 url: http://localhost:4000/ # The URL of your site
 
+# Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
+tag_manager_id: # This looks something like GTM-XXXXXXX
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
 cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
@@ -230,7 +232,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/jamesh
 
 ## Development
 
-To set up your environment to develop and further customise this theme, fork the repo and explore the ```_assets``` directory, which includes all the ```css, js``` and ```font``` folders. If you're adding a feature, please add some tests in the ```spec``` directory to ensure everyhting works as intended. 
+To set up your environment to develop and further customise this theme, fork the repo and explore the ```_assets``` directory, which includes all the ```css, js``` and ```font``` folders. If you're adding a feature, please add some tests in the ```spec``` directory to ensure everyhting works as intended.
 
 ## Contributors
 
