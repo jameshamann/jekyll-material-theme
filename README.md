@@ -2,9 +2,14 @@
 
 A Jekyll Theme based on [Material Design](https://material.io/) using [Materialize](http://materializecss.com/).
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-material-theme.svg)](https://badge.fury.io/rb/jekyll-material-theme)
+<h1>![CircleCI](https://img.shields.io/circleci/project/github/jameshamann/jekyll-material-theme.svg?style=for-the-badge)
 
-CircleCI Build Status: [![CircleCI](https://circleci.com/gh/jameshamann/jekyll-material-theme.svg?style=svg)](https://circleci.com/gh/jameshamann/jekyll-material-theme)
+![Gem](https://img.shields.io/gem/dt/jekyll-material-theme.svg?style=for-the-badge)
+
+
+![Gem](https://img.shields.io/gem/v/jekyll-material-theme.svg?style=for-the-badge)</h1>
+
+## Examples
 
 <a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
 
