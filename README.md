@@ -2,13 +2,8 @@
 
 A Jekyll Theme based on [Material Design](https://material.io/) using [Materialize](http://materializecss.com/).
 
-<h1>
 ![CircleCI](https://img.shields.io/circleci/project/github/jameshamann/jekyll-material-theme.svg?style=for-the-badge)
-
-![Gem](https://img.shields.io/gem/dt/jekyll-material-theme.svg?style=for-the-badge)
-
-
-![Gem](https://img.shields.io/gem/v/jekyll-material-theme.svg?style=for-the-badge)</h1>
+![Gem](https://img.shields.io/gem/dt/jekyll-material-theme.svg?style=for-the-badge) ![Gem](https://img.shields.io/gem/v/jekyll-material-theme.svg?style=for-the-badge)
 
 ## Examples
 
