@@ -25,11 +25,17 @@ jobs:
     steps:
       - checkout
 
+      -run
+          name: Update Chromedriver
+          command: |
+              sudo apt-get update
+              sudo apt-get install google-chrome-stable
+
       - run:
           name: install dependencies
           command: |
             bundle install
- 
+
       # build the jekyll site
       - run:
           name: build the site
