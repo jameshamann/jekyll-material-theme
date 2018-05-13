@@ -11,6 +11,7 @@ gem "selenium-webdriver"
 gem "chromedriver-helper"
 gem "rack-jekyll"
 gem "pry"
+gem "puma"
 
 
 group :jekyll_plugins do
