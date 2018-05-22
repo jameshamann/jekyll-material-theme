@@ -8,7 +8,6 @@ gem "minima", "~> 2.0"
 gem 'rspec'
 gem 'capybara'
 gem "selenium-webdriver"
-gem "chromedriver-helper"
 gem "rack-jekyll"
 gem "pry"
 gem "puma"
