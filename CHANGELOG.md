@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.6.1] - 2018-07-03
+### Additions
+* Addresses [issue #38](https://github.com/jameshamann/jekyll-material-theme/issues/38)
+Adds ability to remove/show copyright text and symbol, set in config file.
+Suggested by [rajido](https://github.com/rajido).
+
+
+
 ## [0.6.0] - 2018-02-23
 ### Fixes
 * Fixes [issue #25](https://github.com/jameshamann/jekyll-material-theme/pull/25), Back link on post.
