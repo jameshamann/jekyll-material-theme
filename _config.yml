@@ -6,6 +6,8 @@ description: Write an awesome description for your new site here. You can edit t
 baseurl: "/blog"
 url: ""
 
+display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
+
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
