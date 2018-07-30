@@ -201,6 +201,8 @@ skills:
   - name: wordpress
   - name: yii
   - name: zend
+  - name: ansible
+    uri: https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Ansible_logo.png/220px-Ansible_logo.png # Add external icon, for internal icon use uri: /assets/my_icon.jpg
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
