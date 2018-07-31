@@ -246,7 +246,7 @@ To set up your environment to develop and further customise this theme, fork the
 - [James Hamann](https://github.com/jameshamann)
 - [Jam Rizzer](https://github.com/jamrizzi)
 - [Kobes](https://github.com/Kobes)
-
+- [fe80](https://github.com/fe80)
 ## [Changelog](https://github.com/jameshamann/jekyll-material-theme/blob/master/CHANGELOG.md)
 
 ## License
